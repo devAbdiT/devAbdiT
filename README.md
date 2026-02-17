@@ -34,11 +34,9 @@ I’m a **Frontend Engineer** dedicated to building fast, accessible, and type-s
 
 ---
 
-### 📊 GitHub Analytics
-
+### ⚡ Quick Stats & GitHub Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAbdiT&show_icons=true&theme=vision-glow&hide_border=true&count_private=true" height="170" alt="Overall Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdiT&theme=vision-glow&hide_border=true" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdiT&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
