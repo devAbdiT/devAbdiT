@@ -60,6 +60,4 @@ I’m a **Frontend Engineer** dedicated to building fast, accessible, and type-s
 
 ---
 
-<p align="center">
-  Designed with ❤️ by Abdi Tadesse
-</p>
+
