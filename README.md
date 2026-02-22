@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdi Tadesse <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <strong>Frontend Engineer | Next.js • React • TypeScript</strong>
+  <strong>Frontend Engineer | Next.js • React • TypeScript •Tailwind </strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I’m a **Frontend Engineer** dedicated to building fast, accessible, and type-safe web applications. My expertise lies in the **React ecosystem**, where I specialize in turning complex requirements into seamless user experiences.
+I’m a **Frontend Developer** dedicated to building fast, accessible, and type-safe web applications. My expertise lies in the **React ecosystem**, where I specialize in turning complex requirements into seamless user experiences.
 
 * **Current Focus:** Masterfully implementing **Next.js** features like App Router, Server Components, and optimized data fetching.
 * **The TypeScript Edge:** I write strictly typed code to ensure reliability, scalability, and a better developer experience.
