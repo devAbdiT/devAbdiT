@@ -35,12 +35,10 @@ I’m a **Frontend Developer** dedicated to building fast, accessible, and type-
 ---
 
 ### ⚡ Quick Stats & GitHub Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdiT&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdiT&layout=compact&theme=vision-glow&hide_border=true" height="150" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdiT&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-black-ten-46.vercel.app/api/top-langs/?username=devAbdiT&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
