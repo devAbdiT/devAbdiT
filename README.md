@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devAbdiT"><img src="https://komarev.com/ghpvc/?username=devAbdiT&color=007ACC&style=flat-square" alt="Views" /></a>
+  <!-- <a href="https://github.com/devAbdiT"><img src="https://komarev.com/ghpvc/?username=devAbdiT&color=007ACC&style=flat-square" alt="Views" /></a> -->
   <a href="https://www.linkedin.com/in/abdi-tadesse-914a33372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
