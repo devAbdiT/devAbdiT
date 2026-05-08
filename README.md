@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Frontend Engineer</strong><br/>
+  <strong>Frontend Developer</strong><br/>
   Next.js • React • TypeScript • Tailwind CSS
 </p>
 
