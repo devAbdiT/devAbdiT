@@ -56,10 +56,10 @@ I'm a **Frontend Developer** passionate about building fast, accessible, and typ
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdiT&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-stats-black-ten-46.vercel.app/api/top-langs/?username=devAbdiT&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
