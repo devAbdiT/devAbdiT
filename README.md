@@ -62,13 +62,13 @@ I'm a **Frontend Developer** passionate about building fast, accessible, and typ
 </div> 
 
 ---
-
+<!--
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devAbdiT/devAbdiT/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
+-->
 ---
 
 ### 📫 Let's Connect
