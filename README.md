@@ -96,7 +96,7 @@ One sentence on what it does and who it's for.
 
 <div align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=devAbdiT&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdiT&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdiT&layout=compact&theme=radical&hide_border=true" alt="Most used languages" /> -->
 </div>
 
 ---
