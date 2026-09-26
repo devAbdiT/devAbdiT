@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Frontend Developer • Software Engineering Student </strong><br/>
   Next.js • React • TypeScript • Tailwind CSS<br/>
-  🔎 Open to frontend internship opportunities
+  <!-- 🔎 Open to frontend internship opportunities -->
 </p>
 
 <p align="center">
