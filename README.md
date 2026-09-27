@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineering student at Jimma University who loves building web interfaces that are clean, responsive, and easy to use. I like starting from a real problem, thinking about the people who face it, and turning it into something they can actually use. Most of my work is in **React and Next.js**, and I'm now learning backend development so I can build complete products, from the database all the way to the screen.
+I'm a Software Engineering student  who loves building web interfaces that are clean, responsive, and easy to use. I like starting from a real problem, thinking about the people who face it, and turning it into something they can actually use. Most of my work is in **React and Next.js**, and I'm now learning backend development so I can build complete products, from the database all the way to the screen.
 
 - **Currently deepening:** Next.js (App Router, Server Components, and data fetching)
 - **Type safety:** I write strictly typed TypeScript so code stays reliable and easy to maintain
